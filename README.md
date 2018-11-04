@@ -3,7 +3,7 @@
 ## Models
 linear regression, regularization, nearest neighbor, kernel regression, logistic regression, decision trees, ensembles, nearest neighbors, clustering, mixtures of Gaussians, latent dirchlet allocation
 ## Algorithms
-gradient descent, coordinate descent, stochastic gradient, recursive greedy, boosting, KD-trees, locality sensitive hashing, k-means, 
+gradient descent, coordinate descent, stochastic gradient, recursive greedy, boosting, KD-trees, locality sensitive hashing, k-means 
 ## Concepts
 loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
 
