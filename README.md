@@ -1,7 +1,17 @@
+# Key Implementation 
+
+## Models
+linear regression, regularization, nearest neighbor, kernel regression, logistic regression, decision trees, ensembles, nearest neighbors, clustering, mixtures of Gaussians, latent dirchlet allocation
+## Algorithms
+gradient descent, coordinate descent, stochastic gradient, recursive greedy, boosting, KD-trees, locality sensitive hashing, k-means, 
+## Concepts
+loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
+
+
 # Machine-Learning Projects
 
 ## Regression
-### || Predicting House Price
+### || Predicting House Prices
 * Simple regression & multiple regression
 * Assessing performance between different models
 * Ridge regression & lasso regression
@@ -24,12 +34,3 @@
 * Gaussian mixtures model
 * Hierarchy  of clusters
 
-
-# Key Implementation 
-
-## Models
-linear regression, regularization, nearest neighbor, kernel regression, logistic regression, decision trees, ensembles, nearest neighbors, clustering, mixtures of Gaussians, latent dirchlet allocation
-## Algorithms
-gradient descent, coordinate descent, stochastic gradient, recursive greedy, boosting, KD-trees, locality sensitive hashing, k-means, 
-## Concepts
-loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
