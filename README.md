@@ -1,3 +1,6 @@
+# Introduction
+This repository contains the implementation of classic machine learing techniques including regression, classification and clustering. 
+
 # Key Implementation 
 
 ## Models
@@ -8,7 +11,7 @@ gradient descent, coordinate descent, stochastic gradient, recursive greedy, boo
 loss functions, bias-variance tradeoff, cross-validation, model selection, feature selection, sparsity, alleviating overfitting, precision-recall, distance metrics, approximation algorithms, probabilistic modeling
 
 
-# Machine-Learning Projects
+# Projects List
 
 ## Regression
 ### || Predicting House Prices
